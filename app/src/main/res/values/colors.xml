@@ -1,0 +1,6 @@
+<resources>
+    <color name="focus_night">#08121E</color>
+    <color name="focus_sky">#0D1B2A</color>
+    <color name="focus_accent">#4DA3FF</color>
+    <color name="focus_gold">#F3C969</color>
+</resources>
