@@ -1,0 +1,21 @@
+{
+  "name": "Flight Focus",
+  "short_name": "FlightFocus",
+  "description": "Turn your focus sessions into immersive flights with history, stats, and achievements.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050812",
+  "theme_color": "#0b1220",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTIiIGZpbGw9IiMwYjEyMjAiLz4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4IDgpIHNjYWxlKDAuNzUpIiBmaWxsPSIjNWNkM2ZmIj4KICAgIDxwYXRoIGQ9Ik02IDQ2bDIyLTYgNi0yMmMxLTMgNC01IDctNGw0IDFjMyAxIDQgNCAzIDdsLTYgMjIgMTQgNGMyIDEgMyAzIDIgNS0xIDItMyAzLTUgM2wtMTgtMi02IDVjLTIgMS01IDAtNi0yLTEtMS0xLTMgMC00bDMtNi0xOC0xYy0zIDAtNS0yLTQtNSAwLTMgMi00IDQtNXoiLz4KICA8L2c+Cjwvc3ZnPgo=",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTIiIGZpbGw9IiMwYjEyMjAiLz4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4IDgpIHNjYWxlKDAuNzUpIiBmaWxsPSIjNWNkM2ZmIj4KICAgIDxwYXRoIGQ9Ik02IDQ2bDIyLTYgNi0yMmMxLTMgNC01IDctNGw0IDFjMyAxIDQgNCAzIDdsLTYgMjIgMTQgNGMyIDEgMyAzIDIgNS0xIDItMyAzLTUgM2wtMTgtMi02IDVjLTIgMS01IDAtNi0yLTEtMS0xLTMgMC00bDMtNi0xOC0xYy0zIDAtNS0yLTQtNSAwLTMgMi00IDQtNXoiLz4KICA8L2c+Cjwvc3ZnPgo=",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
