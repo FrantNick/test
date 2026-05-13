@@ -16,10 +16,10 @@
   --text: #ffffff;
   --muted: rgba(255, 255, 255, 0.55);
   --muted-soft: rgba(255, 255, 255, 0.35);
-  --accent: #f97316;
-  --accent-hover: #fb923c;
-  --accent-soft: rgba(249, 115, 22, 0.12);
-  --accent-glow: rgba(249, 115, 22, 0.35);
+  --accent: #eab308;
+  --accent-hover: #fbbf24;
+  --accent-soft: rgba(234, 179, 8, 0.12);
+  --accent-glow: rgba(234, 179, 8, 0.35);
 
   --font-display: 'Bebas Neue', sans-serif;
   --font-body: 'DM Sans', system-ui, sans-serif;
@@ -30,7 +30,7 @@
   --radius-lg: 22px;
 
   --shadow-card: 0 1px 0 rgba(255, 255, 255, 0.03) inset, 0 30px 60px -30px rgba(0, 0, 0, 0.8);
-  --shadow-red: 0 20px 50px -20px rgba(249, 115, 22, 0.45);
+  --shadow-red: 0 20px 50px -20px rgba(234, 179, 8, 0.45);
 
   --container: 1240px;
   --nav-h: 76px;
@@ -497,7 +497,7 @@ body.nav-open .nav-toggle span::after { top: 0; transform: rotate(-45deg); }
 
 .program-card.featured {
   border-color: var(--accent);
-  background: linear-gradient(180deg, rgba(249, 115, 22, 0.04) 0%, var(--card) 50%);
+  background: linear-gradient(180deg, rgba(234, 179, 8, 0.04) 0%, var(--card) 50%);
 }
 
 .featured-badge {
@@ -592,7 +592,7 @@ body.nav-open .nav-toggle span::after { top: 0; transform: rotate(-45deg); }
 .testimonial {
   text-align: center;
   padding: 120px 0;
-  background: radial-gradient(ellipse at center, rgba(249, 115, 22, 0.06) 0%, transparent 65%);
+  background: radial-gradient(ellipse at center, rgba(234, 179, 8, 0.06) 0%, transparent 65%);
   position: relative;
 }
 
@@ -659,8 +659,8 @@ body.nav-open .nav-toggle span::after { top: 0; transform: rotate(-45deg); }
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(circle at 20% 20%, rgba(249, 115, 22, 0.18), transparent 50%),
-    radial-gradient(circle at 80% 80%, rgba(249, 115, 22, 0.10), transparent 55%);
+    radial-gradient(circle at 20% 20%, rgba(234, 179, 8, 0.18), transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(234, 179, 8, 0.10), transparent 55%);
 }
 
 .about-photo-figure {
@@ -723,7 +723,7 @@ body.nav-open .nav-toggle span::after { top: 0; transform: rotate(-45deg); }
 
 /* ---------- CTA BANNER ---------- */
 .cta-banner {
-  background: linear-gradient(135deg, #ea580c 0%, var(--accent) 50%, #f97316 100%);
+  background: linear-gradient(135deg, #ca8a04 0%, var(--accent) 50%, #eab308 100%);
   position: relative;
   overflow: hidden;
 }
@@ -924,7 +924,7 @@ body.nav-open .nav-toggle span::after { top: 0; transform: rotate(-45deg); }
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(circle at 30% 30%, rgba(249, 115, 22, 0.15), transparent 50%),
+    radial-gradient(circle at 30% 30%, rgba(234, 179, 8, 0.15), transparent 50%),
     linear-gradient(180deg, transparent 40%, rgba(0, 0, 0, 0.7) 100%);
   z-index: 0;
 }
@@ -1076,7 +1076,7 @@ body.nav-open .nav-toggle span::after { top: 0; transform: rotate(-45deg); }
 }
 .field select {
   appearance: none;
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23f97316'><path d='M7 10l5 5 5-5z'/></svg>");
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23eab308'><path d='M7 10l5 5 5-5z'/></svg>");
   background-repeat: no-repeat;
   background-position: right 14px center;
   background-size: 20px;
